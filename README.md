@@ -1,2 +1,2 @@
-# ScreenMonitorHandler
-Este proyecto trata de automatizar acciones sobre el monitor que está a la entrada del instituto
+# SchoolManagement
+Este proyecto contiene una serie de herramientas útiles para el profesorado y dirección

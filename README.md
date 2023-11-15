@@ -1,2 +1,2 @@
 # SchoolManagement
-Este proyecto contiene una serie de herramientas útiles para el profesorado y dirección
+Este proyecto contiene una serie de herramientas JAVA útiles para el profesorado y dirección
